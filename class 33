@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equv="X-ua-compatible" content="ie=edge">
+	<meta name="description" content="this is tutorial">
+	<meta name="author" content="harshit vashistha">
+	<meta name="keywords" content="html,tutorial">
+    <title>tutorial</title>
+    <style>
+    table.heading{
+    color:red;
+    
+    }
+    </head>
+<body>
+   <h1>this is heading</h1>
+   <h2>hello</h2>
+   .
+   .
+   <h6>hello</h6>
+   <p> 
+   <br>
+   </p>
+   <a herf="https://google.co.in">google link</a>
+   <img src="logo.png" alt="logo">
+   <h2 class="table heading">table</h2>
+   <table>
+        <thead>
+	<th>first name</th>
+	</thead>
+	<tbody>
+	<tr>harshit</tr>
+	</tbody>
+    </table>
+    <h2>table forms</h2>
+    <form>
+    <input type="text" nam""> id"" placeholder="username"><br></br>
+    <input type="password" name="" id="" placeholder="password">
+    </form>
+    
+</body>
+</html>	
+
+
+
+
